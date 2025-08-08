@@ -1,0 +1,2 @@
+camke cmake_minimum_required(VERSION 4.0.3)
+include_directories(./calculate/vector3f.h)
