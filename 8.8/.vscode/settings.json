@@ -1,7 +1,17 @@
 {
-    "files.associations": {
-        "stdio.h": "c",
-        "voctor3f.h": "c",
-        "vector3f.h": "c"
+    "cmake.options.statusBarVisibility": "visible",
+    "cmake.options.advanced": {
+        "build": {
+            "statusBarVisibility": "inherit",
+            "inheritDefault": "visible"
+        },
+        "launch": {
+            "statusBarVisibility": "inherit",
+            "inheritDefault": "visible"
+        },
+        "debug": {
+            "statusBarVisibility": "inherit",
+            "inheritDefault": "visible"
+        }
     }
 }

@@ -1,0 +1,14 @@
+[
+{
+  "directory": "F:/rc/learn/8.8/5/build",
+  "command": "D:\\vscode\\mingw64\\bin\\gcc.exe  @CMakeFiles/main.dir/includes_C.rsp -g -o CMakeFiles\\main.dir\\src\\main.c.obj -c F:\\rc\\learn\\8.8\\5\\src\\main.c",
+  "file": "F:/rc/learn/8.8/5/src/main.c",
+  "output": "CMakeFiles/main.dir/src/main.c.obj"
+},
+{
+  "directory": "F:/rc/learn/8.8/5/build",
+  "command": "D:\\vscode\\mingw64\\bin\\gcc.exe  @CMakeFiles/main.dir/includes_C.rsp -g -o CMakeFiles\\main.dir\\src\\vector3f.c.obj -c F:\\rc\\learn\\8.8\\5\\src\\vector3f.c",
+  "file": "F:/rc/learn/8.8/5/src/vector3f.c",
+  "output": "CMakeFiles/main.dir/src/vector3f.c.obj"
+}
+]

@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "./5/calculate/vector3f.h"
+#include "vector3f.h"
 
 int main() {
     // 定义正方体顶点坐标（棱长为1）
@@ -19,7 +19,7 @@ int main() {
     // (1) 求点B到直线AC1的距离
     vector3f AC1_dir = vector_sub(C1, A); // AC1的方向向量
     float dist_B_to_AC1 = distance_point_to_line(B, A, AC1_dir);
-    printf("(1) 点B到直线AC1的距离: %.4f\n", dist_B_to_AC1);
+    printf("(1) B-AC1: %.4f\n", dist_B_to_AC1);
 
     // (2) 求直线FC到平面AEC1的距离
     vector3f FC_dir = vector_sub(C, F); // FC的方向向量
@@ -27,7 +27,7 @@ int main() {
     vector3f AC1 = vector_sub(C1, A);
     vector3f plane_normal = vector_cross(AE, AC1); // 平面AEC1的法向量
     float dist_FC_to_plane = distance_line_to_plane(F, FC_dir, A, plane_normal);
-    printf("(2) 直线FC到平面AEC1的距离: %.4f\n", dist_FC_to_plane);
+    printf("(2) FC-AEC: %.4f\n", dist_FC_to_plane);
 
     return 0;
 }

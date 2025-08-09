@@ -1,2 +1,11 @@
-camke cmake_minimum_required(VERSION 4.0.3)
-include_directories(./calculate/vector3f.h)
+cmake_minimum_required(VERSION 3.16)
+
+project(main)
+
+include_directories(
+    inc
+)
+
+add_executable(main src/main.c src/vector3f.c)
+
+
