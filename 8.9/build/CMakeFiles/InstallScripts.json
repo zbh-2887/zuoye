@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"F:/rc/learn/8.9/build/cmake_install.cmake",
+		"F:/rc/learn/8.9/build/c2copy/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

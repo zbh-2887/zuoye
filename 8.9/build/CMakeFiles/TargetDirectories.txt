@@ -1,0 +1,5 @@
+F:/rc/learn/8.9/build/CMakeFiles/edit_cache.dir
+F:/rc/learn/8.9/build/CMakeFiles/rebuild_cache.dir
+F:/rc/learn/8.9/build/c2copy/CMakeFiles/main.dir
+F:/rc/learn/8.9/build/c2copy/CMakeFiles/edit_cache.dir
+F:/rc/learn/8.9/build/c2copy/CMakeFiles/rebuild_cache.dir
