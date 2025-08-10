@@ -1,0 +1,14 @@
+[
+{
+  "directory": "F:/rc/learn/8.10/queue/build",
+  "command": "D:\\vscode\\mingw64\\bin\\gcc.exe  @CMakeFiles/main.dir/includes_C.rsp -g -o CMakeFiles\\main.dir\\src\\main.c.obj -c F:\\rc\\learn\\8.10\\queue\\src\\main.c",
+  "file": "F:/rc/learn/8.10/queue/src/main.c",
+  "output": "CMakeFiles/main.dir/src/main.c.obj"
+},
+{
+  "directory": "F:/rc/learn/8.10/queue/build",
+  "command": "D:\\vscode\\mingw64\\bin\\gcc.exe  @CMakeFiles/main.dir/includes_C.rsp -g -o CMakeFiles\\main.dir\\src\\queue.c.obj -c F:\\rc\\learn\\8.10\\queue\\src\\queue.c",
+  "file": "F:/rc/learn/8.10/queue/src/queue.c",
+  "output": "CMakeFiles/main.dir/src/queue.c.obj"
+}
+]
