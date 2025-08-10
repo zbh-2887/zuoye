@@ -1,0 +1,8 @@
+[
+{
+  "directory": "F:/rc/learn/8.8/7/build",
+  "command": "D:\\vscode\\mingw64\\bin\\gcc.exe   -g -o CMakeFiles\\main.dir\\main.c.obj -c F:\\rc\\learn\\8.8\\7\\main.c",
+  "file": "F:/rc/learn/8.8/7/main.c",
+  "output": "CMakeFiles/main.dir/main.c.obj"
+}
+]
