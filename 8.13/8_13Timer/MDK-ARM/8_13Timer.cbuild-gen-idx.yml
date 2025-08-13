@@ -1,0 +1,13 @@
+build-gen-idx:
+  generated-by: uVision version 5.40.0.0
+  generators:
+    - board: ""
+      device: STM32F405RGTx
+      id: CubeMX
+      output: D:/cubemxproject/8_13Timer/MDK-ARM/STM32CubeMX/8_13Timer/
+      project-type: single-core
+      cbuild-gens:
+        - cbuild-gen: D:/cubemxproject/8_13Timer/MDK-ARM/8_13Timer.8_13Timer.cbuild-gen.yml
+          configuration: .8_13Timer
+          name: D:/cubemxproject/8_13Timer/MDK-ARM/STM32CubeMX/8_13Timer/8_13Timer.cgen.yml
+          project: 8_13Timer
