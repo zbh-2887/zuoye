@@ -1,0 +1,13 @@
+build-gen-idx:
+  generated-by: uVision version 5.40.0.0
+  generators:
+    - board: ""
+      device: STM32F405RGTx
+      id: CubeMX
+      output: D:/cubemxproject/8_15_CAN/MDK-ARM/STM32CubeMX/8_15_CAN/
+      project-type: single-core
+      cbuild-gens:
+        - cbuild-gen: D:/cubemxproject/8_15_CAN/MDK-ARM/8_15_CAN.8_15_CAN.cbuild-gen.yml
+          configuration: .8_15_CAN
+          name: D:/cubemxproject/8_15_CAN/MDK-ARM/STM32CubeMX/8_15_CAN/8_15_CAN.cgen.yml
+          project: 8_15_CAN
